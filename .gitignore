@@ -1,0 +1,8 @@
+*.workspace
+*.mk
+*.project
+*.txt
+Debug/
+Makefile
+.codelite/
+
