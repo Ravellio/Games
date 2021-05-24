@@ -53,5 +53,6 @@ int main() {
 		}
 		timeout += 1000 / fps;
 	}
+	SDL_Delay(1000);
 	return 0;
 }
